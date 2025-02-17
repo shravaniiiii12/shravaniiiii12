@@ -49,9 +49,7 @@ Welcome to my GitHub! I am passionate about securing digital assets, ethical hac
 ---
 
 ### 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shravani-karambelkar-34b422231/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/shravaniiiii12)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:shravanikarambelkar16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shravani-karambelkar-34b422231/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/shravaniiiii12) [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:shravanikarambelkar16@gmail.com)
 
 ---
 
