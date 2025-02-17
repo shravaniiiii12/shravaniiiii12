@@ -42,9 +42,9 @@ Welcome to my GitHub! I am passionate about securing digital assets, ethical hac
 ---
 
 ### 📜 Certifications:
-✅ **CISEH - Certified Information Security & Ethical Hacker**
-✅ **Microsoft Azure Fundamentals (AZ900, DP900)**
-✅ **Industrial IoT Security Training - CopperCloud IOTech Pvt Ltd**
+- ✅ **CISEH - Certified Information Security & Ethical Hacker**
+- ✅ **Microsoft Azure Fundamentals (AZ900, DP900)**
+- ✅ **Industrial IoT Security Training - CopperCloud IOTech Pvt Ltd**
 
 ---
 
